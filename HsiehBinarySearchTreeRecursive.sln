@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTInsert", "BSTInsert\BSTInsert.csproj", "{EE42F2AB-C50B-42D5-8D7C-7747EBBA071D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE42F2AB-C50B-42D5-8D7C-7747EBBA071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE42F2AB-C50B-42D5-8D7C-7747EBBA071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE42F2AB-C50B-42D5-8D7C-7747EBBA071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE42F2AB-C50B-42D5-8D7C-7747EBBA071D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940676AA-3064-4258-B878-28C1F9BFB812}
+	EndGlobalSection
+EndGlobal
